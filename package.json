@@ -21,7 +21,7 @@
     "axios": "^0.13.0",
     "cheerio": "^0.20.0",
     "geocoder": "^0.2.2",
-    "google-map-react": "^0.16.0",
+    "google-map-react": "^0.34.0",
     "tmp": "0.0.28"
   },
   "devDependencies": {
@@ -41,7 +41,7 @@
     "eslint-plugin-import": "^1.10.2",
     "eslint-plugin-jsx-a11y": "^2.0.1",
     "eslint-plugin-react": "^5.2.2",
-    "google-map-react": "^0.15.1",
+    "google-map-react": "^0.34.0",
     "haversine": "^1.0.0",
     "mobx": "^2.3.6",
     "mobx-react": "^3.5.0",
